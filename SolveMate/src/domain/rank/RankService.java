@@ -1,5 +1,7 @@
 package domain.rank;
 
-public class RankService {
+import java.util.List;
 
+public interface RankService {
+	List<Rank> getRanking();
 }
