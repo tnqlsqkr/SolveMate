@@ -69,7 +69,7 @@ public class StudyTest {
     	while(true) {
     		System.out.println("1. 스터디 등록");
     		System.out.println("2. 스터디 전체 조회");
-    		System.out.println("3. 스터디 단건 조회");
+    		System.out.println("3. 스터디 조회");
     		System.out.println("4. 스터디 수정");
     		System.out.println("5. 스터디 삭제");
     		System.out.println("0. 종료");

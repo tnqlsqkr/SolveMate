@@ -10,7 +10,7 @@ public class StudyDTO {
 	
 	public StudyDTO() {}
 	
-	public StudyDTO(Long gorupId, String gname, LocalDateTime create_at) {
+	public StudyDTO(Long groupId, String gname, LocalDateTime create_at) {
 		super();
 		this.groupId = groupId;
 		this.gname = gname;
